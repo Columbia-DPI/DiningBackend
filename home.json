@@ -1,0 +1,47 @@
+{
+    "dininghalls": [{
+            "name": "Ferris Booth",
+            "times": [
+                "Breakfast: 9:00-10:00",
+                "Lunch: 12:00-4:00",
+                "Dinner: 5:00-8:00"
+            ],
+            "density": "70%"
+        },
+        {
+            "name": "John Jay",
+            "times": [
+                "Breakfast: 9:00-10:00",
+                "Lunch: 12:00-4:00",
+                "Dinner: 5:00-8:00"
+            ],
+            "density": "20%"
+        },
+        {
+            "name": "JJ's Place",
+            "times": [
+                "Breakfast: 9:00-10:00",
+                "Late Night: 11:00-9:00"
+            ],
+            "density": "80%"
+        },
+        {
+            "name": "Hewitt",
+            "times": [
+                "Breakfast: 9:00-10:00",
+                "Lunch: 12:00-4:00",
+                "Dinner: 5:00-8:00"
+            ],
+            "density": "60%"
+        },
+        {
+            "name": "Diana",
+            "times": [
+                "Breakfast: 9:00-10:00",
+                "Lunch: 12:00-4:00",
+                "Dinner: 5:00-8:00"
+            ],
+            "density": "30%"
+        }
+    ]
+}

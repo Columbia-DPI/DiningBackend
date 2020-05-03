@@ -1,0 +1,42 @@
+{
+    "name": "Diana",
+    "times": [
+        {
+            "name": "Breakfast",
+            "groups": [
+                {
+                    "name": "Action Line",
+                    "foods": ["Waffles", "Chicken"]
+                }
+            ]
+        },
+        
+        {
+            "name": "Lunch",
+            "groups": [
+                {
+                    "name": "Action Line",
+                    "foods": ["Sushi Bowl"]
+                },
+                {
+                    "name": "Main Line",
+                    "foods": ["Curry", "Brown Rice", "Grilled Chicken"]
+                },
+                {
+                    "name": "Vegan Station",
+                    "foods": ["Nut", "Vegan Pancackes", "Oatmeal (Vegan)"]
+                }
+            ]
+        },
+
+        {
+            "name": "Dinner",
+            "groups": [
+                {
+                    "name": "Action Line",
+                    "foods": ["Quesadilla (Chicken)", "Quesadilla (Beef)"]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+
+    "name": "Hewitt",
+    "times": [
+        {
+            "name": "Breakfast",
+            "groups": [
+                
+                {
+                    "name": "Main Line",
+                    "foods": ["Pancackes", "Potato Hash", "Elbow Pasta", "Marinara (Vegan)", "Grilled Vegetables (Vegetarian)"]
+                },
+                {
+                    "name": "The Regulars",
+                    "foods": ["Cheese Pizza", "Sandwich"]
+                }
+            ]
+        },
+        
+        {
+            "name": "Lunch",
+            "groups": [
+                
+                {
+                    "name": "Vegan Station",
+                    "foods": ["Nut", "Vegan Pancackes", "Oatmeal (Vegan)"]
+                },
+                {
+                    "name": "The Regulars",
+                    "foods": ["Cheese Pizza", "Pepperoni Pizza"]
+                }
+            ]
+        },
+
+        {
+            "name": "Dinner",
+            "groups": [
+                
+                {
+                    "name": "Vegan Station",
+                    "foods": ["Hummus", "Vegan Pancackes", "Oatmeal (Vegan)"]
+                },
+                {
+                    "name": "The Regulars",
+                    "foods": ["Cheese Pizza", "Pepperoni Pizza"]
+                }
+            ]
+        }
+    ]
+}

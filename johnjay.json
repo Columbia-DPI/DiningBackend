@@ -1,0 +1,70 @@
+{
+    "name": "John Jay",
+    "times": [
+        {
+            "name": "Breakfast",
+            "groups": [
+                {
+                    "name": "Main Line",
+                    "foods": ["Plain Scrambled Eggs", "Farmer's Eggs", "Pancakes", "Pork Sausage", "Hash Browns"]
+                },
+                {
+                    "name": "Grill Station",
+                    "foods": ["Omelet", "Plain Hot Oatmeal"]
+                },
+                {
+                    "name": "Pasta",
+                    "foods": ["Tri-color Rotini", "Marinara (Vegan)", "Roasted Pepper Cream Sauce"]
+                },
+                {
+                    "name": "Soup",
+                    "foods": ["Chicken Noodle"]
+                }
+            ]
+        },
+        
+        {
+            "name": "Lunch",
+            "groups": [
+                {
+                    "name": "Main Line",
+                    "foods": ["Plain Scrambled Eggs", "Farmer's Eggs", "Pancakes", "Pork Sausage", "Hash Browns"]
+                },
+                {
+                    "name": "Grill Station",
+                    "foods": ["Omelet", "Plain Hot Oatmeal"]
+                },
+                {
+                    "name": "Pasta",
+                    "foods": ["Tri-color Rotini", "Marinara (Vegan)", "Roasted Pepper Cream Sauce"]
+                },
+                {
+                    "name": "Soup",
+                    "foods": ["Chicken Noodle"]
+                }
+            ]
+        },
+
+        {
+            "name": "Dinner",
+            "groups": [
+                {
+                    "name": "Main Line",
+                    "foods": ["Plain Scrambled Eggs", "Farmer's Eggs", "Pancakes", "Pork Sausage", "Hash Browns"]
+                },
+                {
+                    "name": "Grill Station",
+                    "foods": ["Omelet", "Plain Hot Oatmeal"]
+                },
+                {
+                    "name": "Pasta",
+                    "foods": ["Tri-color Rotini", "Marinara (Vegan)", "Roasted Pepper Cream Sauce"]
+                },
+                {
+                    "name": "Soup",
+                    "foods": ["Chicken Noodle"]
+                }
+            ]
+        }
+    ]
+}
